@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hai, saya Royandi - alias [Roy Web Beginner] 👋
 
-<!--
-**royandixix/royandixix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tentang Saya:
+- 🔭 Saat ini saya adalah seorang mahasiswa
+- 🌱 Sedang mempelajari semua bahasa pemrograman yang berhubungan web
+- 👯 Ingin berkolaborasi dalam bidang pengembangan web
+- 🤔 Mencari ide proyek menggunakan otak
+- 💬 Tanyakan apa saja
+- 📫 Hubungi saya di: [vincentwidyan@gmail.com](mailto:vincentwidyan@gmail.com)
 
-Here are some ideas to get you started:
+## Pendidikan:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 1. [Universitas Dipa Makassar](https://site.undipa.ac.id/) | Sarjana Teknik Elektro | Yogyakarta `2016-2020`
+   - 👨‍🏫 Asisten Praktikum Web Native
+   - 🖥️ Asisten Praktikum Sistem Basisdata
+#### 2. [SMKN 1 NEGERI PAPALANG](https://www.sman1kebumen.sch.id) | SMKN | PAPALANG `2019-2021`
+   - 🎧 Jurusan TAV Teknik Audio Video (Elektronika)
+
+## Pengalaman Kerja:
+#### 1. Magang Siswa di PT. Sinergi Global Elektronik, Mamuju, Sulawesi Barat (2020)
+   - 📝 Memperbarui data inventarisasi perangkat elektronik.
+   - 🔧 Membantu dalam proses pemasangan dan pengujian alat elektronik di lapangan.
+   - 📊 Menyusun laporan harian terkait penggunaan dan kondisi perangkat elektronik.
+#### 2. Pengalaman Berorganisasi | KeDaI Computerworks, Koordinator Keilmuan `2019-2021`
+   - 📅 Mengelola kegiatan dan koordinasi tim dalam organisasi.
+   - 🎓 Bertanggung jawab dalam perencanaan dan pelaksanaan kegiatan ilmiah.
+   - 📈 Menyusun laporan kegiatan organisasi dan meningkatkan kualitas pengembangan keilmuan anggota.
+
+---
+
+### Bahasa Pemrograman yang Sudah Dikuasai:
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) 🌐
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 🎨
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 💻
+- [PHP](https://www.php.net/) 🔧
+- [MySQL](https://dev.mysql.com/) 🗄️
+- Framework:
+   - [React](https://reactjs.org/) ⚛️
+   - [Bootstrap](https://getbootstrap.com/) 💪
+   - [Tailwind CSS](https://tailwindcss.com/) 🪶
+   - [Laravel](https://laravel.com/) 🖤
+
+---
+
+### Hubungi Saya:
+
+- [YouTube](https://www.youtube.com/@royandiundiparoyandiundipa6073) 📹
+- [Facebook](https://www.facebook.com/share/Yw2cb6d9C2BQD7qb/?mibextid=qi2Omg) 📘
+- [Instagram](https://www.instagram.com/ransabiw?igsh=M2p4b21rNGJhdWx6) 📸
