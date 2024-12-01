@@ -6,7 +6,7 @@
 - 👯 Ingin berkolaborasi dalam bidang pengembangan web
 - 🤔 Mencari ide proyek menggunakan otak
 - 💬 Tanyakan apa saja
-- 📫 Hubungi saya di: [vincentwidyan@gmail.com](randiroyandi@gmail.com)
+- 📫 Hubungi saya di: [randiroyandi@gmail.com]
 
 ## Pendidikan:
 
