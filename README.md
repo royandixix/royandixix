@@ -1,4 +1,4 @@
-# Hai, saya Royandi - alias [Roy Web Beginner] 👋
+# Hai, saya Royandi 👋
 
 ## Tentang Saya:
 - 🔭 Saat ini saya adalah seorang mahasiswa
