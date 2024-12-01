@@ -10,7 +10,7 @@
 
 ## Pendidikan:
 
-#### 1. [Universitas Dipa Makassar](https://site.undipa.ac.id/) | Sarjana Teknik Elektro | Yogyakarta `2016-2020`
+#### 1. [Universitas Dipa Makassar](https://site.undipa.ac.id/) |Jurusab Teknik Informatika S1| Makassar 2024
    - 👨‍🏫 Asisten Praktikum Web Native
    - 🖥️ Asisten Praktikum Sistem Basisdata
 #### 2. [SMKN 1 NEGERI PAPALANG](https://www.sman1kebumen.sch.id) | SMKN | PAPALANG `2019-2021`
