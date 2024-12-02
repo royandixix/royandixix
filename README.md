@@ -13,7 +13,7 @@
 #### 1. [Universitas Dipa Makassar](https://site.undipa.ac.id/) |Jurusan Teknik Informatika S1| Makassar 2024
    - 👨‍🏫 Asisten Praktikum Web Native
    - 🖥️ Asisten Praktikum Sistem Basisdata
-#### 2. [SMKN 1 NEGERI PAPALANG](https://www.sman1kebumen.sch.id) | SMKN | PAPALANG `2019-2021`
+#### 2. [SMKN 1 NEGERI PAPALANG](https://www.sman1kebumen.sch.id) | SMKN | PAPALANG `2023-2024`
    - 🎧 Jurusan TAV Teknik Audio Video (Elektronika)
 
 ## Pengalaman Kerja:
