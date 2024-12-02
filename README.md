@@ -21,7 +21,7 @@
    - 📝 Memperbarui data inventarisasi perangkat elektronik.
    - 🔧 Membantu dalam proses pemasangan dan pengujian alat elektronik di lapangan.
    - 📊 Menyusun laporan harian terkait penggunaan dan kondisi perangkat elektronik.
-#### 2. Pengalaman Berorganisasi | KeDaI Computerworks, Koordinator Keilmuan `2019-2021`
+#### 2. Pengalaman Berorganisasi | KeDaI Computerworks, Koordinator Keilmuan `2024-2025`
    - 📅 Mengelola kegiatan dan koordinasi tim dalam organisasi.
    - 🎓 Bertanggung jawab dalam perencanaan dan pelaksanaan kegiatan ilmiah.
    - 📈 Menyusun laporan kegiatan organisasi dan meningkatkan kualitas pengembangan keilmuan anggota.
