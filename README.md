@@ -1,11 +1,11 @@
-# Yo! What's up? I'm Royan Dixix 
+# Yo! What's up? I'm Royan Dixix 👋
 
 A freelance **web dev hustlin' outta Mamuju, West Sulawesi, Indonesia**.  
-Welcome to my GitHub crib, where I drop code like beats 
+Welcome to my GitHub crib, where I drop code like beats 🎶🔥
 
 ---
 
-## Tech Stack
+## 🖥️ Tech Stack
 
 ### Frontend
 <p align="left">
@@ -39,7 +39,7 @@ Welcome to my GitHub crib, where I drop code like beats
 
 ---
 
-##  Projects
+## 💼 Projects
 - **Portfolio Website** – my playground & showcase
 - **Telegram Bot** – automatin’ stuff like a boss
 - **Python Apps** – crunchin’ data
