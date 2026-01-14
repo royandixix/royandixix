@@ -1,45 +1,45 @@
-# Yo! What's up? I'm Royan Dixix 👋
+# Yo! What's up? I'm Royan Dixix 
 
 A freelance **web dev hustlin' outta Mamuju, West Sulawesi, Indonesia**.  
-Welcome to my GitHub crib, where I drop code like beats 🎶🔥
+Welcome to my GitHub crib, where I drop code like beats 
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 ### Frontend
-| Technology | Icon |
-|------------|------|
-| React.js | <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40"/> |
-| Next.js | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40"/> |
-| Vue.js | <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="40"/> |
-| Angular | <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="40"/> |
-| Tailwind CSS | <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40"/> |
-| Bootstrap | <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="40"/> |
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="50" title="React.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="50" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="50" title="Vue.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="50" title="Angular"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="50" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="50" title="Bootstrap"/>
+</p>
 
 ### Backend
-| Technology | Icon |
-|------------|------|
-| Laravel | <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="40"/> |
-| Node.js | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="40"/> |
-| Firebase | <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="40"/> |
-| XAMPP | <img src="https://www.apachefriends.org/images/xampp-logo.png" width="40"/> |
-| MySQL | <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40"/> |
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="50" title="Laravel"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="50" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="50" title="Firebase"/>
+  <img src="https://www.apachefriends.org/images/xampp-logo.png" width="50" title="XAMPP"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="50" title="MySQL"/>
+</p>
 
 ### Tools & Other Vibes
-| Tool | Icon |
-|------|------|
-| Git | <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"/> |
-| Vite | <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" width="40"/> |
-| Inertia.js | <img src="https://raw.githubusercontent.com/inertiajs/inertia-logo/master/inertia.png" width="40"/> |
-| Nuxt.js | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" width="40"/> |
-| Livewire | <img src="https://raw.githubusercontent.com/livewire/livewire-docs/main/public/logo.svg" width="40"/> |
-| ChatGPT | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="40"/> |
-| API / JSON | <img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" width="40"/> |
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50" title="Git"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" width="50" title="Vite"/>
+  <img src="https://raw.githubusercontent.com/inertiajs/inertia-logo/master/inertia.png" width="50" title="Inertia.js"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" width="50" title="Nuxt.js"/>
+  <img src="https://raw.githubusercontent.com/livewire/livewire-docs/main/public/logo.svg" width="50" title="Livewire"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="50" title="ChatGPT"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" width="50" title="API/JSON"/>
+</p>
 
 ---
 
-## 💼 Projects
+##  Projects
 - **Portfolio Website** – my playground & showcase
 - **Telegram Bot** – automatin’ stuff like a boss
 - **Python Apps** – crunchin’ data
