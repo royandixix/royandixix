@@ -22,7 +22,7 @@ Welcome to my GitHub crib, where I drop code like beats 🎶🔥
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="50" title="Laravel"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="50" title="Node.js"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="50" title="Firebase"/>
-  <img src="https://www.apachefriends.org/images/xampp-logo.png" width="50" title="XAMPP"/>
+  <img src="https://raw.githubusercontent.com/apachefriends/xampp/master/xampp-logo.png" width="50" title="XAMPP"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="50" title="MySQL"/>
 </p>
 
@@ -30,9 +30,9 @@ Welcome to my GitHub crib, where I drop code like beats 🎶🔥
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50" title="Git"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" width="50" title="Vite"/>
-  <img src="https://raw.githubusercontent.com/inertiajs/inertia-logo/master/inertia.png" width="50" title="Inertia.js"/>
+  <img src="https://raw.githubusercontent.com/InertiaJS/inertia-logo/main/inertia-logo.png" width="50" title="Inertia.js"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" width="50" title="Nuxt.js"/>
-  <img src="https://raw.githubusercontent.com/livewire/livewire-docs/main/public/logo.svg" width="50" title="Livewire"/>
+  <img src="https://raw.githubusercontent.com/livewire/livewire/main/assets/logo.png" width="50" title="Livewire"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="50" title="ChatGPT"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" width="50" title="API/JSON"/>
 </p>
