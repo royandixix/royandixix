@@ -22,5 +22,3 @@ Welcome to my GitHub crib, where I drop code like beats
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-royandixix-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@royandixix-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
-### Fun GIF
-![Coding GIF](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
