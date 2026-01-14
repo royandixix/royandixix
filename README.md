@@ -1,11 +1,11 @@
-Halo! Saya Royan Dixix
+# Yo! What's up? I'm Royan Dixix 👋
 
-Saya seorang **freelance web developer** dari **Sulawesi Barat, Mamuju, Kecamatan Papalang**.  
-Selamat datang di profil GitHub saya!  
+A freelance **web dev hustlin' outta Mamuju, West Sulawesi, Indonesia**.  
+Welcome to my GitHub crib, where I drop code like beats 🎶🔥
 
 ---
 
-## 🔧 Skills & Frameworks
+## 🔥 Skills & Stack
 
 ### Frontend
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -15,14 +15,15 @@ Selamat datang di profil GitHub saya!
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Mary UI](https://img.shields.io/badge/MaryUI-FF6F61?style=for-the-badge&logo=google&logoColor=white)
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FCC624?style=for-the-badge&logo=apachefriends&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Others
+### Tools & Other Vibes
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -33,12 +34,20 @@ Selamat datang di profil GitHub saya!
 
 ---
 
+## 💼 Projects & Hustles
+- **Portfolio Website** – my personal playground & showcase
+- **Telegram Bot** – automatin’ stuff like a boss
+- **Python Apps** – crunchin’ data, makin’ moves
+- **Fullstack Jam** – Laravel + Vue + MySQL/XAMPP
+
+---
+
 ## 📊 GitHub Stats
 ![Royan GitHub Stats](https://github-readme-stats.vercel.app/api?username=royandixi&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Connect dengan saya
+## 📫 Hit me up
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-royandixix-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@royandixix-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
