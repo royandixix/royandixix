@@ -1,12 +1,7 @@
-# Yo! What's up? I'm Royan Dixix 👋
+# Yo! What's up? I'm Royan Dixix 
 
 A freelance **web dev hustlin' outta Mamuju, West Sulawesi, Indonesia**.  
-Welcome to my GitHub crib, where I drop code like beats 🎶🔥
-
----
-
-## 🖥️ Tech Stack
-
+Welcome to my GitHub crib, where I drop code like beats 
 ### Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="50" title="React.js"/>
@@ -22,11 +17,11 @@ Welcome to my GitHub crib, where I drop code like beats 🎶🔥
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="50" title="Laravel"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="50" title="Node.js"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="50" title="Firebase"/>
-  <img src="https://raw.githubusercontent.com/apachefriends/xampp/master/xampp-logo.png" width="50" title="XAMPP"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="50" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/apachefriends/xampp/master/xampp-logo.png" width="50" title="XAMPP"/>
 </p>
 
-### Tools & Other Vibes
+### Tools & Others
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50" title="Git"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" width="50" title="Vite"/>
@@ -37,27 +32,6 @@ Welcome to my GitHub crib, where I drop code like beats 🎶🔥
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" width="50" title="API/JSON"/>
 </p>
 
----
-
-## 💼 Projects
-- **Portfolio Website** – my playground & showcase
-- **Telegram Bot** – automatin’ stuff like a boss
-- **Python Apps** – crunchin’ data
-- **Fullstack App** – Laravel + Vue + MySQL/XAMPP
-
----
-
-## 📊 GitHub Stats
-![Royan GitHub Stats](https://github-readme-stats.vercel.app/api?username=royandixi&show_icons=true&theme=radical)
-
----
-
-## 📫 Hit Me Up
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-royandixix-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@royandixix-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
-
----
-
-### 🌟 Fun GIF
-![Coding GIF](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome)](https://yourwebsi)
