@@ -1,53 +1,99 @@
 <div align="center">
 
-# Royan Dixix
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Royan%20Dixix&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Web%20Developer%20%E2%80%94%20Mamuju%2C%20West%20Sulawesi&descSize=16&descAlignY=58&descColor=a0aec0" />
 
-**Freelance Web Developer — Mamuju, West Sulawesi, Indonesia**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=620&lines=Building+clean%2C+scalable+web+applications;Laravel+%7C+React+%7C+Next.js+%7C+Vue+specialist;Open+for+freelance+%26+collaboration" alt="Typing SVG" />
 
-Crafting clean, scalable web experiences from the heart of Sulawesi.
-Turning ideas into products, one commit at a time.
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=royandixi&style=flat-square&color=818cf8&label=Profile+Views)
 
-## Frontend
-
-| React | Next.js | Vue.js | Angular | Tailwind | Bootstrap | Mary UI | Reactstrap | TypeScript |
-|:-----:|:-------:|:------:|:-------:|:--------:|:---------:|:-------:|:----------:|:----------:|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="48"/> | <img src="https://raw.githubusercontent.com/MaryUI/maryui/main/logo.png" width="48"/> | <img src="https://raw.githubusercontent.com/reactstrap/reactstrap/master/logo.png" width="48"/> | <img src="https://raw.githubusercontent.com/microsoft/TypeScript/main/logo/ts-logo-512.svg" width="48"/> |
+</div>
 
 ---
 
-## Backend
+<div align="center">
 
-| Laravel | Node.js | Firebase | Supabase | XAMPP | MAMP | MySQL | Filament | Livewire |
-|:-------:|:-------:|:--------:|:--------:|:-----:|:----:|:-----:|:--------:|:--------:|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" width="48"/> | <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" width="48"/> | <img src="https://www.apachefriends.org/images/xampp-logo.svg" width="48"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/MAMP_logo.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="48"/> | <img src="https://raw.githubusercontent.com/filamentphp/filament/main/logo.png" width="48"/> | <img src="https://raw.githubusercontent.com/livewire/livewire/main/assets/logo.png" width="48"/> |
+### About
 
----
+I build full-stack web applications that are fast, maintainable, and built to last.
+Based in **Mamuju, West Sulawesi** — working with clients across Indonesia and beyond.
 
-## Tools & Workflow
-
-| Git | NPM | Vite | Inertia.js | Nuxt.js | ChatGPT | Postman | Linux | Docker |
-|:---:|:---:|:----:|:----------:|:-------:|:-------:|:-------:|:-----:|:------:|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" width="48"/> | <img src="https://raw.githubusercontent.com/InertiaJS/inertia-logo/main/inertia-logo.png" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuxt/nuxt.png" width="48"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" width="48"/> | <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="48"/> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="48"/> |
+</div>
 
 ---
 
-## GitHub Stats
+<div align="center">
 
-![Royan GitHub Stats](https://github-readme-stats.vercel.app/api?username=royandixi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royandixi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,ts&theme=dark&perline=8" />
+
+<br/><br/>
+
+![Mary UI](https://img.shields.io/badge/Mary_UI-8B5CF6?style=flat-square&logoColor=white)
+![Reactstrap](https://img.shields.io/badge/Reactstrap-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</div>
 
 ---
 
-## Let's Connect
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,firebase,supabase,mysql&theme=dark&perline=8" />
+
+<br/><br/>
+
+![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![MAMP](https://img.shields.io/badge/MAMP-0093D1?style=flat-square&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logo=laravel&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,npm,vite,nuxtjs,postman,linux,docker&theme=dark&perline=8" />
+
+<br/><br/>
+
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=royandixi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royandixi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=royandixi&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Royan%20Dixix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40royandixix-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-royandixix.dev-FF4154?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
-
----
-
-<sub>Built with precision from Mamuju, West Sulawesi — Indonesia</sub>
+[![Portfolio](https://img.shields.io/badge/Portfolio-royandixix.dev-818CF8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
