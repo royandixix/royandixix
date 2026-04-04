@@ -1,10 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Royan+Dixix;Freelance+Web+Developer;Mamuju%2C+West+Sulawesi+%F0%9F%87%AE%F0%9F%87%A9;Let's+build+something+great.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58a6ff&height=200&section=header&text=Royan%20Dixix&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Freelance%20Web%20Developer%20%E2%80%94%20Mamuju%2C%20West%20Sulawesi&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+clean+%26+scalable+web+experiences;Laravel+%7C+React+%7C+Next.js+%7C+Supabase;Turning+ideas+into+products%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=royandixi&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/royandixi?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/royandixi?style=for-the-badge&color=f78166&labelColor=0d1117&logo=github)
 
 </div>
 
@@ -14,11 +20,11 @@
 
 <div align="left">
 
-[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,ts&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,ts&theme=dark)](https://skillicons.dev)
 
 </div>
 
-> React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; Vue.js &nbsp;|&nbsp; Angular &nbsp;|&nbsp; Tailwind CSS &nbsp;|&nbsp; Bootstrap &nbsp;|&nbsp; TypeScript
+> React &nbsp;|&nbsp; Next.js &nbsp;|&nbsp; Vue.js &nbsp;|&nbsp; Angular &nbsp;|&nbsp; Tailwind CSS &nbsp;|&nbsp; Bootstrap &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; Mary UI &nbsp;|&nbsp; Reactstrap
 
 ---
 
@@ -26,7 +32,7 @@
 
 <div align="left">
 
-[![Backend Skills](https://skillicons.dev/icons?i=laravel,nodejs,firebase,supabase,mysql&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=laravel,nodejs,firebase,supabase,mysql&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -38,11 +44,11 @@
 
 <div align="left">
 
-[![Tool Skills](https://skillicons.dev/icons?i=git,npm,vite,nuxt,postman,linux,docker&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,npm,vite,nuxt,postman,linux,docker&theme=dark)](https://skillicons.dev)
 
 </div>
 
-> Git &nbsp;|&nbsp; NPM &nbsp;|&nbsp; Vite &nbsp;|&nbsp; Inertia.js &nbsp;|&nbsp; Nuxt.js &nbsp;|&nbsp; Postman &nbsp;|&nbsp; Linux &nbsp;|&nbsp; Docker
+> Git &nbsp;|&nbsp; NPM &nbsp;|&nbsp; Vite &nbsp;|&nbsp; Inertia.js &nbsp;|&nbsp; Nuxt.js &nbsp;|&nbsp; Postman &nbsp;|&nbsp; Linux &nbsp;|&nbsp; Docker &nbsp;|&nbsp; ChatGPT
 
 ---
 
@@ -60,7 +66,7 @@
 
 ---
 
-## Contribution Snake
+## Contribution Activity
 
 <div align="center">
 
@@ -80,6 +86,4 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<sub>Built with precision from Mamuju, West Sulawesi — Indonesia</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1f35,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
