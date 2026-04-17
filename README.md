@@ -78,11 +78,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=royandixi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true&area_color=1a3a5c" width="100%"/>
 
 </div>
 
