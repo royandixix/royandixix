@@ -9,15 +9,15 @@
 <br/>
 
 <a href="https://github.com/royandixi">
-  <img src="https://komarev.com/ghpvc/?username=royandixi&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=royandixi&color=58a6ff&style=flat&label=views" />
 </a>
 &nbsp;
 <a href="https://github.com/royandixi?tab=followers">
-  <img src="https://img.shields.io/github/followers/royandixi?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/royandixi?style=flat&color=58a6ff&labelColor=0d1117&logo=github&label=followers" />
 </a>
 &nbsp;
 <a href="https://github.com/royandixi?tab=repositories">
-  <img src="https://img.shields.io/github/stars/royandixi?style=for-the-badge&color=f78166&labelColor=0d1117&logo=github&label=STARS" />
+  <img src="https://img.shields.io/github/stars/royandixi?style=flat&color=f78166&labelColor=0d1117&logo=github&label=stars" />
 </a>
 
 <br/>
