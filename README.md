@@ -1,10 +1,10 @@
 <div align="">
 
-# Royan Dixix
+Royan Dixix
 
-### Full-Stack Web Developer and Software Enginer
+Full-Stack Web Developer and Software Enginer
 
-📍 Mamuju, West Sulawesi — Indonesia &nbsp;|&nbsp; 🌐 Open to Remote Work
+Mamuju, West Sulawesi — Indonesia &nbsp;|&nbsp; Open to Remote Work
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 👨‍💻 About Me
+About Me
 
 ```java
 public class Profile {
@@ -47,13 +47,13 @@ public class Profile {
 
 ---
 
-## 🗺️ My Learning Journey
+My Learning Journey
 
 > **10 phases** — from absolute zero to shipping real products for real clients.
 
 ```mermaid
 flowchart TD
-    START(["🌱 Started from zero\nCuriosity — no background, no experience"])
+    START([" Started from zero\nCuriosity — no background, no experience"])
     START --> P1
 
     P1["**Phase 1 — The Foundation**\n─────────────────────────────\nHTML5 · CSS3 · JavaScript ES6+\nDOM manipulation · Async/Await\nResponsive Design · Flexbox · Grid"]
@@ -94,7 +94,7 @@ flowchart TD
     P10["**Phase 10 — Real Client Work**\n─────────────────────────────\nWeb applications · Admin dashboards\nLanding pages · E-commerce\nREST APIs · SaaS platforms\nClient communication · Delivery"]
     P10 --> FINAL
 
-    FINAL(["🚀 Freelance Full-Stack Developer\n─────────────────────────────\nLaravel · React · Next.js · Supabase · TypeScript\nMamuju, West Sulawesi — Indonesia\nOpen to Remote · Available Now"])
+    FINAL(["Freelance Full-Stack Developer\n─────────────────────────────\nLaravel · React · Next.js · Supabase · TypeScript\nMamuju, West Sulawesi — Indonesia\nOpen to Remote · Available Now"])
 
     style START fill:#0d2b22,stroke:#2d6a4f,color:#3fb950
     style FINAL fill:#0d2b22,stroke:#3fb950,color:#3fb950
