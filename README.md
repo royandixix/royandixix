@@ -2,7 +2,7 @@
 
 # Royan Dixix
 
-### Full-Stack Web Developer
+### Full-Stack Web Developer and Software Enginer
 
 📍 Mamuju, West Sulawesi — Indonesia &nbsp;|&nbsp; 🌐 Open to Remote Work
 
