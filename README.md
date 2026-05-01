@@ -29,118 +29,18 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const profile = {
-  name     : "Royan Dixix",
-  role     : "Freelance Web Developer",
-  location : "Mamuju, West Sulawesi 🇮🇩",
-  skills   : {
-    frontend : ["React", "Next.js", "Vue.js", "Angular", "Tailwind CSS", "TypeScript"],
-    backend  : ["Laravel", "Node.js", "Supabase", "Firebase"],
-    tools    : ["Git", "Docker", "Figma", "Postman", "Linux"],
-    database : ["MySQL", "Supabase", "Firebase"],
-  },
-  available : true,
-};
+```java
+public class Profile {
+    String  name     = "Royan Dixix";
+    String  role     = "Freelance Web Developer";
+    String  location = "Mamuju, West Sulawesi 🇮🇩";
+    String[] frontend = {"React", "Next.js", "Vue.js", "Angular", "Tailwind CSS", "TypeScript"};
+    String[] backend  = {"Laravel", "Node.js", "Supabase", "Firebase"};
+    String[] tools    = {"Git", "Docker", "Figma", "Postman", "Linux"};
+    String[] database = {"MySQL", "Supabase", "Firebase"};
+    boolean  available = true;
+}
 ```
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## 🖥️ Frontend Tech Stack
-
-<div align="center">
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,ts,js,html,css&theme=dark" />
-  <br/><br/>
-
-  `React` `Next.js` `Vue.js` `Angular` `Tailwind CSS` `Bootstrap` `TypeScript` `Mary UI` `Reactstrap`
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## ⚙️ Backend & Database
-
-<div align="center">
-  <br/>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,firebase,supabase,mysql,php&theme=dark" />
-  <br/><br/>
-
-  `Laravel` `Node.js` `Firebase` `Supabase` `MySQL` `Filament` `Livewire` `XAMPP` `MAMP`
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## 🛠️ Tools & Workflow
-
-<div align="center">
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,npm,vite,nuxt,postman,linux,docker,figma,vscode&theme=dark" />
-  <br/><br/>
-
-  `Git` `NPM` `Vite` `Inertia.js` `Nuxt.js` `Postman` `Linux` `Docker` `ChatGPT`
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=royandixi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166&rank_icon=github" height="175"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royandixi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="175"/>
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=royandixi&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=1a1f35" width="100%"/>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/royandixi/royandixi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## 📬 Connect With Me
-
-<div align="center">
-  <br/>
-
-  <a href="https://linkedin.com/in/royandixi">
-    <img src="https://img.shields.io/badge/LinkedIn-Royan%20Dixix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/royandixi">
-    <img src="https://img.shields.io/badge/Twitter-%40royandixi-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://royandixi.dev">
-    <img src="https://img.shields.io/badge/Portfolio-royandixi.dev-FF4154?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-</div>
 
 <br/><br/>
 
