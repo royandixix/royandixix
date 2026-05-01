@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 # Royan Dixix
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+ About Me
 
 ```java
 public class Profile {
