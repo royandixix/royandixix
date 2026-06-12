@@ -1,17 +1,13 @@
 
 
 Royan Dixix
-
 Full-Stack Web Developer and Software Enginer
-
 Mamuju, West Sulawesi — Indonesia &nbsp;|&nbsp; Open to Remote Work
-
 <br/>
 
 `Laravel` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Vue.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Docker`
 
 <br/>
-
 <a href="https://github.com/royandixi">
   <img src="https://komarev.com/ghpvc/?username=royandixi&color=3fb950&style=flat-square&label=views" />
 </a>
@@ -25,11 +21,7 @@ Mamuju, West Sulawesi — Indonesia &nbsp;|&nbsp; Open to Remote Work
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/available%20for%20remote-yes-3fb950?style=flat-square&labelColor=161b22" />
-
 </div>
-
----
-
 About Me
 
 ```java
