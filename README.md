@@ -2,7 +2,9 @@
 
 Royan Dixix
 Full-Stack Web Developer and Software Enginer
+
 Mamuju, West Sulawesi — Indonesia &nbsp;|&nbsp; Open to Remote Work
+
 <br/>
 
 `Laravel` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Supabase` &nbsp;·&nbsp; `Vue.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `Docker`
